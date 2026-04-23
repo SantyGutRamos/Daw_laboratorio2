@@ -90,8 +90,3 @@ docker compose -f docker_compose.yml down
 * Si alguna aplicación no carga, verifica que los puertos estén disponibles
 * Docker Desktop debe estar en ejecución
 
----
-
-## Autor
-
-Proyecto desarrollado como parte de un laboratorio académico utilizando Docker.
