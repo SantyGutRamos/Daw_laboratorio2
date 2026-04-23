@@ -19,8 +19,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 
 ---
-# URL video
-https://www.youtube.com/watch?v=YtL_iu7-P_A
+
 
 ## Cómo ejecutar el proyecto
 
@@ -70,4 +69,5 @@ docker compose -f docker_compose.yml down
 * Cada proyecto debe contener un archivo `index.html`
 * Si alguna aplicación no carga, verifica que los puertos estén disponibles
 * Docker Desktop debe estar en ejecución
-
+# URL video
+https://www.youtube.com/watch?v=YtL_iu7-P_A
