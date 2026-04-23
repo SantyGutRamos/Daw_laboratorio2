@@ -79,7 +79,7 @@ Ctrl + C
 O ejecuta:
 
 ```
-docker compose down
+docker compose -f docker_compose.yml down
 ```
 
 ---

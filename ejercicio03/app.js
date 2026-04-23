@@ -1,5 +1,5 @@
 
-const palabras = ["PAMPACOLCA", "AREQUIPA", "MISTI", "CHACHANI", "CHARACATO", "YANAHUARA", "SABANDIA", "CAYMA", "TIABAYA", "COCACHACRA"];
+const palabras = [ "AREQUIPA", "MISTI", "CHACHANI", "CHARACATO", "YANAHUARA", "SABANDIA", "CAYMA", "TIABAYA"];
 let palabraSecreta = "";
 let palabraAdivinada = [];
 let errores = 0;
