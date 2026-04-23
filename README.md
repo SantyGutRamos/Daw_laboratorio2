@@ -19,6 +19,8 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 
 ---
+# URL video
+https://www.youtube.com/watch?v=YtL_iu7-P_A
 
 ## Cómo ejecutar el proyecto
 
