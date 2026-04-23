@@ -9,7 +9,7 @@ services:
     build: ./ejercicio02
     ports:
       - "8081:80"
-  registradora:
+  teclado:
     build: ./ejercicio01
     ports:
       - "8082:80"
